@@ -1,6 +1,6 @@
 # Python-Python
-Snake for terminal, in Python.
-Score points (displayed in the upper left) by collecting exclamation marks ('!').  If the snake touches itself or, in BOUND mode, the walls, the game is over.
+Snake for terminal, in Python.  
+Score points (displayed in the upper left) by collecting exclamation marks ('!').  If the snake touches itself or, in BOUND mode, the walls, the game is over.  
 Point values, snake speed, and framerate can be adjusted in the source file.
 
 
